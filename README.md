@@ -1,36 +1,52 @@
-# 💡 Passionate About Sustainability and Data-Driven Innovation  
+# 💡 Passionate about Data Science, Neural Networks & AI Innovation
 
-Hi, I'm Kartik Joshi – a data strategist and innovator with a focus on creating impactful solutions across **NLP**, **energy**, and **healthcare** domains. My journey is fueled by a commitment to turning data into actionable insights that drive meaningful change.
+Hi, I’m **Kartik Joshi**, a data strategist who turns complex problems into working products.  
+My work sits at the crossroads of **deep learning, large-language models (LLMs) and practical business impact**. If it involves data, algorithms, and measurable results, I’m probably experimenting with it.
 
+---
 
-## 🔍 **What I Do**  
+## 🔍 What I Do
 
-💬 **Natural Language Processing (NLP)**:  
-Specializing in extracting value from text, I work on sentiment analysis, text classification, and building models to enhance communication and user experience.
+| Area | Quick Snapshot |
+| --- | --- |
+| **Large-Language Models & NLP** | Fine-tune and deploy transformer stacks (BERT, RoBERTa, DistilBERT) for sentiment analysis, text classification and attention-based explainability; build LLM-powered decision-support tools and chatbot prototypes. |
+| **Deep Neural Networks** | Design CNN and hybrid architectures with residual, squeeze-excite and attention blocks; recent work includes CIFAR-10/100 classification and a real-time American Sign Language (ASL) translator using webcam streams. |
+| **Causal & Predictive Analytics** | Architected an  **11 % uplift, 2 % send-volume Next-Best-Action engine** for **ALDO Group** – a doubly-robust causal model that personalises email campaigns across millions of customers. |
+| **Optimization & MLOps** | Gurobi portfolio optimisation, MLflow + Docker deployments, real-time Kafka → Spark streaming, Optuna hyper-parameter tuning. |
+| **Cloud Engineering** | Production workloads on AWS, Azure and GCP (Vertex AI, S3, Glue, BigQuery, Colab Pro); rapid prototyping in GitHub Codespaces. |
 
-⚡ **Energy Analytics**:  
-Optimizing energy systems by analyzing usage patterns, forecasting demand, and driving sustainability through innovative data solutions.
+---
 
-🏥 **Healthcare Projects**:  
-Leveraging machine learning and predictive modeling to improve patient outcomes and streamline healthcare operations.  
+## 🏆 Selected Highlights
 
-🌱 **Continuous Learning**:  
-From experimenting with cutting-edge tools like **transformer models** to integrating cloud platforms (AWS, Azure, GCP), I’m always evolving my technical expertise.
+- **ALDO Capstone (Lead Strategist & Data Scientist)**  
+  - Designed a three-model NBA engine (uplift, response, and optimisation layers) that **boosted conversion by 11 % while reducing email traffic by 98 k/week**.  
+  - Built causal uplift models with cross-validated doubly-robust estimators, SHAP explainability, and Optuna-tuned XGBoost.  
+- **DistilBERT + SHAP Pipeline** – End-to-end 20 Newsgroups classifier with synonym augmentation, mixed-precision training, ONNX export, and TorchServe batch inference.  
+- **Inventory Management System** – End-to-end Python + Notion solution digitising McGill Biobar inventory; automated order logging, GUI dashboard, and 100 % audit-trail accuracy.  
+- **Flight-Delay Prediction** – XGBoost model with Optuna that improved baseline RMSE by 28 % on a 12 M-row dataset; integrated live data feed via Kafka to Spark for real-time inference.  
+- **Hackathon & Case Wins** – Multiple podium finishes for data-driven retail, energy, and fintech challenges. Won **Best Use of AWS Tech** in **BSRM x ALDO GenAI Hackathon**
 
-## 🏆 **Achievements**  
+---
 
-- **NLP Success**: Completed a sentiment analysis project using BERT to analyze user reviews in the pharmaceutical industry.  
-- **Energy Insights**: Designed a data pipeline for tracking and visualizing electricity usage trends, enhancing efficiency for large-scale buildings.  
-- **Hackathon Highlights**: Secured top positions in data-focused hackathons, demonstrating innovation in real-world problem-solving.  
-## 📊 **Why I Do This**  
+## ⚒️ Toolchain
 
-I believe every dataset has a story, and uncovering it can transform industries. Whether it's improving renewable energy adoption, streamlining healthcare processes, or building intelligent NLP solutions, my goal is to create a positive impact.
+`Python` · `PyTorch` · `TensorFlow` · `Transformers` · `XGBoost` · `Pandas` · `SQL`  
+`Gurobi` · `MLflow` · `Docker` · `Kafka / Spark` · `Power BI` · `AWS / Azure / GCP`
 
-## 🚀 **What’s Next?**  
+---
 
-I’m on a mission to expand my portfolio and collaborate on projects that align with my passion for innovation and problem-solving. Let’s connect if you’re interested in creating impactful solutions together!  
+## 🚀 What’s Next
 
-📫 **Let’s Collaborate**:  
-- kartikjoshi2077@gmail.com 
+- Shipping a live ASL-to-speech demo.  
+- Extending the ALDO NBA engine with causal forests & uplift trees.  
+- Always open to collaborations in **LLMs, computer vision, or decision science**.
+
+---
+
+## 🤝 Let’s Connect
+
+📧 kartikjoshi2077@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/kartikjoshi) • 📝 [Resume](./ATS-friendly%20Kartik%20Joshi%20resume.pdf) • 🗂️ [Portfolio](https://github.com/kartikjoshi2077)
 
 ![Profile views](https://komarev.com/ghpvc/?username=kartikjoshi2077)
