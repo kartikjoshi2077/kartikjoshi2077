@@ -47,6 +47,6 @@ My work sits at the crossroads of **deep learning, large-language models (LLMs) 
 ## 🤝 Let’s Connect
 
 📧 kartikjoshi2077@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/kartikjoshi) • 📝 [Resume](./ATS-friendly%20Kartik%20Joshi%20resume.pdf) • 🗂️ [Portfolio](https://github.com/kartikjoshi2077)
+💼 [LinkedIn](https://www.linkedin.com/in/kartikjoshi2077) • 🗂️ [Portfolio](https://github.com/kartikjoshi2077)
 
 ![Profile views](https://komarev.com/ghpvc/?username=kartikjoshi2077)
