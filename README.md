@@ -3,7 +3,6 @@
 Hi, I’m **Kartik Joshi**, a data strategist who turns complex problems into working products.  
 My work sits at the crossroads of **machine learning, data architecture, deep learning, large-language models (LLMs) and practical business impact**. If it involves data, algorithms, and measurable results, I’m probably experimenting with it.
 
----
 
 ## What I Do
 
@@ -15,7 +14,7 @@ My work sits at the crossroads of **machine learning, data architecture, deep le
 | **Causal & Predictive Analytics** | Architected an  **11 % uplift, 2 % send-volume Next-Best-Action engine** for **ALDO Group** – a doubly-robust causal model that personalises email campaigns across millions of customers. |
 | **Optimization & MLOps** | Gurobi portfolio optimisation, MLflow + Docker deployments, real-time Kafka → Spark streaming, Optuna hyper-parameter tuning. |
 
----
+
 
 ## 🏆 Selected Highlights
 
@@ -27,14 +26,14 @@ My work sits at the crossroads of **machine learning, data architecture, deep le
 - **Flight-Delay Prediction** – XGBoost model with Optuna that improved baseline RMSE by 28 % on a 12 M-row dataset; integrated live data feed via Kafka to Spark for real-time inference.  
 - **Hackathon & Case Wins** – Multiple podium finishes for data-driven retail, energy, and fintech challenges. Won **Best Use of AWS Tech** in **BSRM x ALDO GenAI Hackathon**
 
----
+
 
 ## Toolchain
 
 `Python` · `PyTorch` · `TensorFlow` · `Transformers` · `XGBoost` · `Pandas` · `SQL`  
 `Gurobi` · `MLflow` · `Docker` · `Kafka / Spark` · `Power BI` · `AWS / Azure / GCP`
 
----
+
 
 ## 🤝 Let’s Connect
 
